@@ -4,6 +4,9 @@ import java.util.*;
 import java.io.IOException;
 import java.io.OutputStream;
 import java.net.*;
+/**
+ * @author Joseluis Garcia
+ */
 public class Client {
 
     private String hostname;
