@@ -1,1 +1,2 @@
-
+For this assignment, we had to implement the forwarding behavior of a switch and a router.
+Recall that a switch forwards packets based on MAC address, and a router forwards packets based on IP address.
